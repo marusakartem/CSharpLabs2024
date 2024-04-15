@@ -1,0 +1,14 @@
+D:\!_DOCS\Desktop\Артем\C#\Pr3\Pr3\bin\Debug\net8.0\Pr3.exe
+D:\!_DOCS\Desktop\Артем\C#\Pr3\Pr3\bin\Debug\net8.0\Pr3.deps.json
+D:\!_DOCS\Desktop\Артем\C#\Pr3\Pr3\bin\Debug\net8.0\Pr3.runtimeconfig.json
+D:\!_DOCS\Desktop\Артем\C#\Pr3\Pr3\bin\Debug\net8.0\Pr3.dll
+D:\!_DOCS\Desktop\Артем\C#\Pr3\Pr3\bin\Debug\net8.0\Pr3.pdb
+D:\!_DOCS\Desktop\Артем\C#\Pr3\Pr3\obj\Debug\net8.0\Pr3.GeneratedMSBuildEditorConfig.editorconfig
+D:\!_DOCS\Desktop\Артем\C#\Pr3\Pr3\obj\Debug\net8.0\Pr3.AssemblyInfoInputs.cache
+D:\!_DOCS\Desktop\Артем\C#\Pr3\Pr3\obj\Debug\net8.0\Pr3.AssemblyInfo.cs
+D:\!_DOCS\Desktop\Артем\C#\Pr3\Pr3\obj\Debug\net8.0\Pr3.csproj.CoreCompileInputs.cache
+D:\!_DOCS\Desktop\Артем\C#\Pr3\Pr3\obj\Debug\net8.0\Pr3.dll
+D:\!_DOCS\Desktop\Артем\C#\Pr3\Pr3\obj\Debug\net8.0\refint\Pr3.dll
+D:\!_DOCS\Desktop\Артем\C#\Pr3\Pr3\obj\Debug\net8.0\Pr3.pdb
+D:\!_DOCS\Desktop\Артем\C#\Pr3\Pr3\obj\Debug\net8.0\Pr3.genruntimeconfig.cache
+D:\!_DOCS\Desktop\Артем\C#\Pr3\Pr3\obj\Debug\net8.0\ref\Pr3.dll
